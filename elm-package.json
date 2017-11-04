@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "summary": "A small exploration project for figuring out an API for using Elm on the server.",
+    "summary": "A small exploration project for using Elm on the server.",
     "repository": "https://github.com/mfeineis/elm-exploration-serverside.git",
     "license": "BSD3",
     "source-directories": [
